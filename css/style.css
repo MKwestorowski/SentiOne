@@ -1,0 +1,9 @@
+.navBarBackground {
+    background-image: url("../images/background_photo_top.jpg");
+}
+
+
+.centerForHXInTeaser {
+    text-align: center;
+    white-space: pre-wrap;
+}
