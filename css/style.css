@@ -17,6 +17,11 @@
     white-space: pre-wrap;
 }
 
+.inputTeaser {
+    border: 2px solid white;
+    background-color: transparent;
+}
+
 .smartText {
     padding-top: 90px;
 }
@@ -35,6 +40,37 @@
 font-size: 12px;
 }
 
-.backgroundForTranglePicturebackground {
-    background: linear-gradient(180deg, white, white 50%, grey);
+.backgroundForTranglePicture {
+    background: linear-gradient(180deg, white, white 50%, #1f1f1f);
+}
+
+.bgColorForLaptop {
+    background: #1f1f1f;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.blueButtons {
+    border: none;
+    color: white;
+    background-color: #1a88ef;
+    border-radius: 3px;
+}
+
+.saveTimeButton {
+    border: 2px solid #1a88ef;
+    background-color: white;
+    color: #1a88ef;
+}
+
+footer {
+    background-color: #2a394f;
+}
+.topicFooter {
+    color: white;
+}
+li {
+    color: #6788b7;
 }
