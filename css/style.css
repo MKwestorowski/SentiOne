@@ -1,9 +1,15 @@
-.navBarBackground {
+.teaserBackground {
     background-image: url("../images/background_photo_top.jpg");
+    background-size: cover;
 }
 
 
-.centerForHXInTeaser {
+.centerForXInTeaser {
     text-align: center;
     white-space: pre-wrap;
+}
+
+
+.arrowDown {
+    width: 5%;
 }
