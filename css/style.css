@@ -5,7 +5,10 @@
 }
 
 .backgroundLine {
-    background-image: url("");
+    background-image: url("../images/smartphone_bg_text.png");
+    background-size: cover;
+    width: 100%;
+    height: 125px;
 }
 
 
@@ -14,7 +17,24 @@
     white-space: pre-wrap;
 }
 
+.smartText {
+    padding-top: 90px;
+}
+
 
 .arrowDown {
     width: 5%;
+}
+
+.smartphone {
+    width: 20%;
+}
+
+.whiteSpaceToWrap {
+    white-space: pre-wrap;
+font-size: 12px;
+}
+
+.backgroundForTranglePicturebackground {
+    background: linear-gradient(180deg, white, white 50%, grey);
 }
