@@ -6,9 +6,9 @@
 
 .backgroundLine {
     background-image: url("../images/smartphone_bg_text.png");
-    background-size: cover;
-    width: 100%;
-    height: 125px;
+    background-repeat: no-repeat;
+    background-position: 0px 55px;
+    background-size: 100% 124px;
 }
 
 .inNav {
@@ -94,4 +94,17 @@ li {
 
 .greyTxtColor {
     color: #2a394f;
+}
+
+.fast {
+    background: #222222;
+}
+
+.smartParagraph {
+    padding-top: 30px;
+}
+
+
+.peopleHead {
+    padding-top: 200px;
 }
